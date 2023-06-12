@@ -8,4 +8,5 @@ Dijkstra algorithm
 BFS
  
 # preview
-![image](https://github.com/ATURYEN/JakDojade/assets/110538257/c4363340-8aa9-4ccc-b53f-cfd6585a4e06)
+
+![Zrzut ekranu 2023-06-12 193302](https://github.com/SzymonLiszewski/JakDojade/assets/110538257/a1d65dd3-c03d-477c-93bc-bf8e91d2c964)
